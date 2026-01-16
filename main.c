@@ -4,7 +4,7 @@ int main()
 {
     int a, b;
     
-    printf("Enter a:"); //Hell :) Hello, Bartholomew
+    printf("Enter a:"); 
     scanf("%d", &a);
     
     printf("Enter b:");
